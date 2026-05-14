@@ -16,9 +16,8 @@ A JavaScript project that fetches and displays live cryptocurrency prices using 
 - Fetch API
 - CoinGecko API 
 
-##Live Demo
+Live Demo
 https://japhet996sunday-cell.github.io/crypto-price-tracker/
 
-
-##Repository link
+Repository link
 https://github.com/japhet996sunday-cell/crypto-price-tracker
